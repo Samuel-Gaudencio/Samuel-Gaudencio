@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Samuel Gaudencio 
 
-
+- 🎓 Análise e Desenvolvimento de Sistemas - 2° Semestre<br>
 - 🌱 Estudando: Python, HTML, CSS e JavaScript
 <br>
 
