@@ -1,4 +1,4 @@
-## Olá! Eu sou o Samuel Gaudencio 
+## Olá! Eu sou o Samuel Siqueira 
 
 - 🎓 Análise e Desenvolvimento de Sistemas - 2° Semestre<br>
 - 🌱 Estudando: Python
