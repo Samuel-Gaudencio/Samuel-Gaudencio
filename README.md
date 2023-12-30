@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Samuel Siqueira 
 
-- 🎓 Análise e Desenvolvimento de Sistemas - 2° Semestre<br>
+- 🎓 Análise e Desenvolvimento de Sistemas - 3° Semestre<br>
 - 🌱 Estudando: Python
 <br>
 
