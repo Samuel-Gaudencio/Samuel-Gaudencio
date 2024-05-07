@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Samuel Siqueira 
 
 - 🎓 Análise e Desenvolvimento de Sistemas - 3° Semestre<br>
-- 🌱 Estudando: Python
+- 🌱 Estudando: PHP
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-gaudencio&show_icons=true&theme=tokyonight)
