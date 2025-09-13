@@ -2,7 +2,7 @@
 
 - 🎓 Análise e Desenvolvimento de Sistemas<br>
 - 🎓 Ciência de Dados<br>
-- 🌱 Estudando: Python
+- 🧑‍💼 Analista de Dados
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-gaudencio&show_icons=true&theme=tokyonight)
