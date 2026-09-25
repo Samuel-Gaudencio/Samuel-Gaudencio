@@ -2,6 +2,7 @@
 
 - 🎓 Análise e Desenvolvimento de Sistemas<br>
 - 🎓 Ciência de Dados<br>
+- 🎓 Desenvolvimento de Sistemas com Python<br>
 - 🧑‍💼 Analista de Dados
 <br>
 
